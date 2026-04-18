@@ -1,16 +1,31 @@
-## Hi there 👋
+<h1 align="center">Zywexx</h1>
 
-<!--
-**Zywexx/zywexx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Zywexx&label=Profile+Views&color=0e75b6&style=flat" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,nodejs,react,python,mysql,mongodb,html,css" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Zywexx&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zywexx&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zywexx&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+<p align="center">
+  <a href="https://discord.gg/CUFXct9PNz">
+    <img src="https://skillicons.dev/icons?i=discord" height="40"/>
+  </a>
+</p>
